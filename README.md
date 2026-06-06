@@ -1,0 +1,1 @@
+# invert_logarithmic_power_series
